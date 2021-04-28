@@ -8,3 +8,4 @@ My resolusi
 - CSS Flexbox
 - CSS Grid
 - Responsive Web Design Projects
+> Java Scripts
